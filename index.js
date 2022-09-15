@@ -55,7 +55,7 @@ client.on("messageCreate", async (message) => {
 
         const subscription = connection.subscribe(player)
         if (subscription) {
-            setTimeout(() => subscription.unsubscribe(), 15000)
+            setTimeout(() => subscription.unsubscribe(), 60000)
         }
 
     } catch (e) {

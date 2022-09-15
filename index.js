@@ -12,7 +12,7 @@ const client = new Client({
         afk: false,
         activities: [{
             name: "t.<lang> <text>",
-            type: ActivityType.Listening,
+            type: ActivityType.Playing,
         }],
     },
 });

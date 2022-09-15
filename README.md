@@ -15,3 +15,6 @@ Use [this page](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) to find y
 `t.en How are you?`  
 `t.ja 元気ですか？`  
 `t.la Lorem ipsum.`  
+
+## Required Intents
+![Intents](https://user-images.githubusercontent.com/53797257/190413724-a3be7515-7ebb-48b9-b959-cf75b3ecbf23.png)
